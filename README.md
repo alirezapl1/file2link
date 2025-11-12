@@ -4,8 +4,7 @@
 .</b>
 
 
-## **📑 INDEX**
-## ⚙️ نصب
+* [**⚙️ نصب**](#installation)
 
 **1.Install Python & Git:**##
 
@@ -88,6 +87,7 @@ docker run -p 8080:8080 file-stream-bot
 
 
 ## ❤️ Credits & Thanks
+
 
 
 
