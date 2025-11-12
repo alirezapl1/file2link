@@ -36,7 +36,7 @@ git clone https://github.com/alirezapl1/filt.git
 **3.Change Directory:**
 
 ```
-cd Files
+cd filt
 ```
 
 <a name="i-3"></a>
@@ -86,6 +86,7 @@ docker run -p 8080:8080 file-stream-bot
 
 
 ## ❤️ Credits & Thanks
+
 
 
 
