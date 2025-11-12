@@ -30,7 +30,7 @@ pkg install git -y
 
 **2.Download repository:**
 ```
-git clone git@github.com:alirezapl1/filt.git
+git clone https://github.com/alirezapl1/filt.git
 ```
 
 **3.Change Directory:**
@@ -86,6 +86,7 @@ docker run -p 8080:8080 file-stream-bot
 
 
 ## ❤️ Credits & Thanks
+
 
 
 
