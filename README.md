@@ -53,7 +53,7 @@ git clone https://github.com/alirezapl1/file2link.git
 **3.Change Directory:**
 
 ```
-cd File2link
+cd file2link
 ```
 
 <a name="i-3"></a>
@@ -106,6 +106,7 @@ docker run -p 8080:8080 file-stream-bot
 - Ask questions or doubts [here](https://t.me/alpha365r).
 
 <a name="credits"></a>
+
 
 
 
